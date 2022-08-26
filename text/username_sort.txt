@@ -1,0 +1,8 @@
+3|Albert|Hamburg Germany.|1
+5|Edith|His name is Jack.|2
+4|Eric|This is my comment!|1
+6|Jack|Her name is Edith.|0
+7|John|Lennon|1
+8|Paul|McCartney|0
+2|Peter|Pan|4
+1|Scroll|Down|3
